@@ -30,7 +30,7 @@ Utiliza JWT para proteger as rotas.
 
 ## Executando o Backend
 
-Acesse a pasta do Frontend.
+Acesse a pasta do Backend.
 
 ```sh
 cd todo-frontend
