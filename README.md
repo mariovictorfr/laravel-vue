@@ -81,7 +81,7 @@ php artisan user:create
 
 ##### Executando o servidor
 
-Para executar a aplicação você pode utilizar um servidor de sua preferência (Apache, por exemplo) ou executar o comando para iniciar um servidor:
+Execute o comando para iniciar um servidor:
 
 ```sh
 php artisan serve
